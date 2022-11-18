@@ -1,0 +1,10 @@
+scripted_gui = {
+	general_economy = {
+		window_name = general_economy_window
+		context_type = player_context
+		parent_window_token = trade_tab
+
+
+		
+	}
+}
