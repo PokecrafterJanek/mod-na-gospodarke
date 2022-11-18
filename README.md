@@ -1,0 +1,2 @@
+# mod na gospodarke
+ 
